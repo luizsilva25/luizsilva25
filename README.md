@@ -1,4 +1,6 @@
 ## hi, i'm luiz 👋
+- Nuclear Energy Engineering Student
+- Working on heat exchange simulation research
 
 
 
