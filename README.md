@@ -1,6 +1,8 @@
 ## hi, i'm luiz 👋
 - Nuclear Energy Engineering Student
-- Working on heat exchange simulation research
+- Working on:
+    - Heat exchange simulation research
+    - Gamification for teaching sustainability concepts
 
 
 
